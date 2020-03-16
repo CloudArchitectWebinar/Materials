@@ -6,7 +6,7 @@ Azure VPN Gateway
 
 https://docs.microsoft.com/pl-pl/azure/vpn-gateway/vpn-gateway-about-vpn-devices
 
-Hub and Spoke architecture
+Azure Networking - Hub and Spoke architecture
 
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke
 

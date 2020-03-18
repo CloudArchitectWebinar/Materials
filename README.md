@@ -1,4 +1,4 @@
-# Additional Materials for Webinars
+# Materials
 
 Please find additional materials for our webinars. 
 Under each folder you will find slides, scripts, links or anything else we shared during our webinar.

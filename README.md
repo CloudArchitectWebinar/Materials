@@ -5,4 +5,4 @@ Under each folder you will find slides, scripts, links or anything else we share
 
 In case of any tips and tricks, just create an issue.
 
-With regards, Michal and Blazej
+With regards, Michal (michal@chmurowisko.pl) and Blazej (blamis@microsoft.com)

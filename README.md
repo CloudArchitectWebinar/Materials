@@ -3,7 +3,10 @@
 Please find additional materials for our webinars. 
 Under each folder you will find slides, scripts, links or anything else we shared during our webinar.
 
-* [01.Windows Virtual Desktop](https://github.com/CloudArchitectWebinar/Materials/tree/master/01.WindowsVirtualDesktop)
+## 01.Windows Virtual Desktop
+[VIDEO](https://www.youtube.com/watch?v=6yc3LpM39us)
+[MATERIALS](https://github.com/CloudArchitectWebinar/Materials/tree/master/01.WindowsVirtualDesktop)
+  
 
 In case of any tips and tricks, just create an issue.
 

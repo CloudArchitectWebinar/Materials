@@ -14,6 +14,8 @@ Windows Virtual Desktop
 
 https://docs.microsoft.com/en-us/azure/virtual-desktop/
 
+https://docs.microsoft.com/en-us/azure/virtual-desktop/tenant-setup-azure-active-directory
+
 https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
 
 https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/network-guidance?context=/azure/virtual-desktop/context/context#display-resolutions

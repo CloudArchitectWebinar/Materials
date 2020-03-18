@@ -1,5 +1,9 @@
 # 01.Windows Virtual Desktop - Links
 
+## Video recording
+
+* [VIDEO](https://www.youtube.com/watch?v=6yc3LpM39us)
+
 ## Azure VPN Gateway
 
 * [VPN Devices](https://docs.microsoft.com/pl-pl/azure/vpn-gateway/vpn-gateway-about-vpn-devices)

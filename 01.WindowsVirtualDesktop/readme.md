@@ -1,29 +1,28 @@
 ### 01.WindowsVirtualDesktop
 
-Links
+#Links
 
-Azure VPN Gateway
+##Azure VPN Gateway
 
-https://docs.microsoft.com/pl-pl/azure/vpn-gateway/vpn-gateway-about-vpn-devices
+*[VPN Devices](https://docs.microsoft.com/pl-pl/azure/vpn-gateway/vpn-gateway-about-vpn-devices)
 
-Azure Networking - Hub and Spoke architecture
+##Azure Networking - Hub and Spoke architecture
+*[Hub&Spoke](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
 
-https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke
+##Windows Virtual Desktop
 
-Windows Virtual Desktop
+*[WVD](https://docs.microsoft.com/en-us/azure/virtual-desktop/)
 
-https://docs.microsoft.com/en-us/azure/virtual-desktop/
+*[Setup Azure AD](https://docs.microsoft.com/en-us/azure/virtual-desktop/tenant-setup-azure-active-directory)
 
-https://docs.microsoft.com/en-us/azure/virtual-desktop/tenant-setup-azure-active-directory
+*[WVD Scaling](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script)
 
-https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
+*[Network Guidance](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/network-guidance?context=/azure/virtual-desktop/context/context#display-resolutions)
 
-https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/network-guidance?context=/azure/virtual-desktop/context/context#display-resolutions
+##Windows Virtual Desktop - Web Client
 
-Windows Virtual Desktop - web client
+*[Web Client](https://rdweb.wvd.microsoft.com/webclient/index.html)
 
-https://rdweb.wvd.microsoft.com/webclient/index.html
+##Windows Virtual Dekstop - Management Tool
 
-Windows Virtual Dekstop - management tool
-
-https://docs.microsoft.com/en-us/azure/virtual-desktop/manage-resources-using-ui
+*[Management Tool](https://docs.microsoft.com/en-us/azure/virtual-desktop/manage-resources-using-ui)

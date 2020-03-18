@@ -1,4 +1,4 @@
-# WindowsVirtualDesktop - Links
+# Windows Virtual Desktop - Links
 
 ## Azure VPN Gateway
 

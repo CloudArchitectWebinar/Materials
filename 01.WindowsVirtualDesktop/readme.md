@@ -1,6 +1,4 @@
-### 01.WindowsVirtualDesktop
-
-# Links
+# WindowsVirtualDesktop - Links
 
 ## Azure VPN Gateway
 
